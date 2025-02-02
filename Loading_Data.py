@@ -1,4 +1,5 @@
 import pandas as pd
+df = pd.DataFrame(columns=['Caliber', 'Bullet Brand', 'Bullet Model', 'Case'])
 
 # Caliber Input
 caliber_data = input('Caliber: ')
